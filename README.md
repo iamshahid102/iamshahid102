@@ -21,15 +21,11 @@ HTML • CSS • JavaScript • TypeScript • React JS • Tailwind CSS
 
 Node.js • Express.js • MongoDB • Firebase
 
-🐍 Programming & Tools
-4
 
-Python • Postman • GitHub • VS Code
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=iamshahid102&show_icons=true&theme=radical&hide_border=true" height="170"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamshahid102&theme=radical&hide_border=true" height="170"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid102&layout=compact&theme=radical&hide_border=true"/> </p>
-📈 Contribution Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamshahid102&theme=react-dark&hide_border=true"/> </p>
+• Postman • GitHub • VS Code
+
+
 💼 What I Can Offer as an Intern
 
 ✔️ Build Responsive React Applications
