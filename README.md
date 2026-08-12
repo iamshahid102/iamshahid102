@@ -10,20 +10,24 @@
 
 I love building real-world web applications with clean UI and scalable backend architecture.
 
-🛠️ Tech Stack
-🌐 Frontend Development
-6
+<p align="center">
+  <a href="https://mshahidun.vercel.app/"><b>Portfolio</b></a>
+</p>
 
-HTML • CSS • JavaScript • TypeScript • React JS • Tailwind CSS
+---
 
-⚙️ Backend Development
-4
+<h3 align="center">Technical Skills</h3>
 
-Node.js • Express.js • MongoDB • Firebase
+<div align="center">
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vue,angular" /><br/>
+    <img src="https://skillicons.dev/icons?i=redux,nodejs,express,mongodb,firebase,mysql,postgres,python" /><br/>
+    <img src="https://skillicons.dev/icons?i=cpp,java,linux,git,github,aws,cloudflare,docker" /><br/>
+    <img src="https://skillicons.dev/icons?i=postman,figma,photoshop,illustrator,vscode,npm" />
+  </p>
+</div>
 
-
-
-• Postman • GitHub • VS Code
+---
 
 
 💼 What I Can Offer as an Intern
