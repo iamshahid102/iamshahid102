@@ -4,34 +4,19 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=F7C52B&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://mshahidun.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-F7C52B?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/mshahidun">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:iamshahid102@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 ---
 
 ## About Me
 
-I'm a **MERN Stack Developer** with **1.5 years of apprenticeship experience** building modern web applications using React, Node.js, Express.js, and MongoDB.
-
-I enjoy turning ideas into practical, responsive, and maintainable applications. My focus is on writing clean code, building reliable APIs, creating intuitive user interfaces, and continuously improving my development skills.
-
-* 💻 MERN Stack Developer with **1.5 years of apprenticeship experience**
-* ⚛️ Building responsive applications with **React.js**
-* 🛠️ Developing REST APIs with **Node.js & Express.js**
+* 💻 MERN Stack Developer with **1.5 years of practical apprenticeship experience**
+* ⚛️ Building modern and responsive applications with **React.js & Next.js**
+* 🛠️ Developing RESTful APIs using **Node.js & Express.js**
 * 🍃 Working with **MongoDB, Mongoose & database design**
-* 🔐 Implementing authentication using **JWT, cookies & bcrypt**
-* 🚀 Working with **Vercel, AWS & Cloudinary**
-* 📚 Currently improving **JavaScript, TypeScript, Next.js & System Design**
-* 🎯 Interested in building scalable and production-quality applications
+* 🔐 Implementing authentication and authorization using **JWT, cookies & bcrypt**
+* 🎨 Building clean and responsive interfaces with **Tailwind CSS, Bootstrap & Material UI**
+* 🚀 Familiar with **Vercel, AWS, Cloudinary & Firebase**
+* 📚 Currently strengthening my knowledge of **Advanced JavaScript, TypeScript, Next.js & System Design**
+* 🎯 Focused on writing clean, reusable and maintainable code
 * 🌍 Based in **Karachi, Pakistan**
 
 ---
@@ -40,34 +25,35 @@ I enjoy turning ideas into practical, responsive, and maintainable applications.
 
 ### Frontend
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,redux&perline=9" />
 </p>
 
 ### Backend & Database
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,firebase&perline=6" />
 </p>
 
 ### Tools & Technologies
 
-<p align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,linux,docker,aws,cloudflare&perline=9" />
 </p>
 
 ---
 
-## What I Work With
+## Development Skills
 
 ### Frontend Development
 
-* Responsive and reusable React components
+* Building responsive and reusable React components
+* Developing modern interfaces with React.js and Next.js
 * State management with Redux Toolkit
 * API integration and data fetching
 * Tailwind CSS, Bootstrap and Material UI
-* Modern JavaScript and TypeScript
-* Responsive UI development
+* JavaScript and TypeScript development
+* Responsive design across desktop, tablet and mobile
 
 ### Backend Development
 
@@ -78,8 +64,9 @@ I enjoy turning ideas into practical, responsive, and maintainable applications.
 * Password hashing with bcrypt
 * Role-based access control
 * API validation and error handling
+* Structured backend architecture
 
-### Database
+### Database & Data Management
 
 * MongoDB with Mongoose
 * MongoDB Atlas
@@ -89,7 +76,7 @@ I enjoy turning ideas into practical, responsive, and maintainable applications.
 ### Development & Deployment
 
 * Git and GitHub
-* Postman API testing
+* Postman for API development and testing
 * Vercel deployment
 * AWS fundamentals
 * Cloudinary
@@ -97,35 +84,22 @@ I enjoy turning ideas into practical, responsive, and maintainable applications.
 
 ---
 
-## GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamshahid102&show_icons=true&hide_border=true&title_color=F7C52B&icon_color=F7C52B&text_color=ffffff&bg_color=0D1117&rank_icon=github" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamshahid102&layout=compact&hide_border=true&title_color=F7C52B&text_color=ffffff&bg_color=0D1117" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=iamshahid102&hide_border=true&background=0D1117&ring=F7C52B&fire=F7C52B&currStreakLabel=F7C52B" />
-</p>
-
----
-
 ## Let's Connect
 
-I'm always interested in connecting with developers, companies, and people working on interesting web projects.
+I'm open to connecting with developers, teams, and organizations working on interesting web applications and software projects.
 
 <p align="center">
   <a href="https://mshahidun.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-F7C52B?style=for-the-badge&logo=vercel&logoColor=black" />
+    <img src="https://img.shields.io/badge/Portfolio-F7C52B?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/mshahidun">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/iamshahid102">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:iamshahid102@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
