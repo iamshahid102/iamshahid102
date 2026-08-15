@@ -89,7 +89,7 @@
 I'm open to connecting with developers, teams, and organizations working on interesting web applications and software projects.
 
 <p align="center">
-  <a href="https://mshahidun.vercel.app">
+  <a href="https://mshahidun.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-F7C52B?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/mshahidun">
