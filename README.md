@@ -11,7 +11,7 @@
 * 💻 Full Stack specializing in (MERN Stack Developer) with **1.5 years of practical apprenticeship experience** and **3 months of professional internship expereince**
 * ⚛️ Building modern and responsive applications with **React.js & Next.js**
 * 🛠️ Developing RESTful APIs using **Node.js & Express.js**
-* 🍃 Working with **MongoDB, Mongoose & database design**
+* 🍃 Working with **MongoDB, Mongoose, MySQL, PostgreSQL & database design**
 * 🔐 Implementing authentication and authorization using **JWT, cookies & bcrypt**
 * 🎨 Building clean and responsive interfaces with **Tailwind CSS, Bootstrap & Material UI**
 * 🚀 Familiar with **Vercel, AWS, Cloudinary & Firebase**
@@ -89,7 +89,7 @@
 I'm open to connecting with developers, teams, and organizations working on interesting web applications and software projects.
 
 <p align="center">
-  <a href="https://mshahidun.netlify.app/">
+  <a href="https://mshahidun.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-F7C52B?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/mshahidun">
