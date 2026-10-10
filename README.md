@@ -8,7 +8,7 @@
 
 ## About Me
 
-* 💻 MERN Stack Developer with **1.5 years of practical apprenticeship experience**
+* 💻 Full Stack specializing in (MERN Stack Developer) with **1.5 years of practical apprenticeship experience** and **3 months of professional internship expereince**
 * ⚛️ Building modern and responsive applications with **React.js & Next.js**
 * 🛠️ Developing RESTful APIs using **Node.js & Express.js**
 * 🍃 Working with **MongoDB, Mongoose & database design**
